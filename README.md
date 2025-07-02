@@ -30,9 +30,3 @@ This project was developed as part of a university course on **Computer Design a
 Student at IUT  
 Course: Computer Design and Architecture  
 Semester: Spring 2022-2023
-
----
-
-## 📄 License
-
-This project is licensed for educational and personal use. Feel free to use and modify.
