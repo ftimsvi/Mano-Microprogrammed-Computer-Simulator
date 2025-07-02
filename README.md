@@ -17,7 +17,7 @@ This project was developed as part of a university course on **Computer Design a
 - Reset and assemble functionality.
 - Step-by-step simulation of instructions and control flow.
 
-🧩 Components
+## 🧩 Components
 
 - `main.py`: The main GUI application for the simulator.
 - `MicroprogrammControl.py`: Backend logic for instruction decoding, execution, and register/memory control.
